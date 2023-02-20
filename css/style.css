@@ -210,7 +210,7 @@ a {
   display: block;
   margin-top: 19px;
 }
-[type="text"] {
+[type="email"] {
   width: 225px;
   margin-top: 25px;
   padding: 9px 23px;
